@@ -1,0 +1,12 @@
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/contract/target/debug/deps/libthiserror_impl-ca84588528e0ef8b.so: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/contract/target/debug/deps/thiserror_impl-ca84588528e0ef8b.d: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs
+
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/lib.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/ast.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/attr.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/expand.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/fmt.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/generics.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/prop.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.43/src/valid.rs:

@@ -1,0 +1,1 @@
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/niand/dev/near-blockchain-bootcamp/nft-contract/contract/src/lib.rs /home/niand/dev/near-blockchain-bootcamp/nft-contract/contract/src/metadata.rs

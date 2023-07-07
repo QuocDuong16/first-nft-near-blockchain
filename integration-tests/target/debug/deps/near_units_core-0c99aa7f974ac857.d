@@ -1,0 +1,11 @@
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/near_units_core-0c99aa7f974ac857.rmeta: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/libnear_units_core-0c99aa7f974ac857.rlib: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/near_units_core-0c99aa7f974ac857.d: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs:

@@ -1,0 +1,12 @@
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/xattr-660c86a876b532dc.rmeta: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/libxattr-660c86a876b532dc.rlib: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/xattr-660c86a876b532dc.d: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs
+
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/lib.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/error.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/mod.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/util.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/mod.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.3/src/sys/linux_macos/linux.rs:

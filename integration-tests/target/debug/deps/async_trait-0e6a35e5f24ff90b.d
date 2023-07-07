@@ -1,0 +1,12 @@
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/libasync_trait-0e6a35e5f24ff90b.so: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/args.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/bound.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/expand.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/lifetime.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/parse.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/receiver.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/verbatim.rs
+
+/home/niand/dev/near-blockchain-bootcamp/nft-contract/integration-tests/target/debug/deps/async_trait-0e6a35e5f24ff90b.d: /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/lib.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/args.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/bound.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/expand.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/lifetime.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/parse.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/receiver.rs /home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/verbatim.rs
+
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/lib.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/args.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/bound.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/expand.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/lifetime.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/parse.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/receiver.rs:
+/home/niand/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.71/src/verbatim.rs:
